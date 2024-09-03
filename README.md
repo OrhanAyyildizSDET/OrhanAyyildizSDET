@@ -2,7 +2,11 @@
 My name is Orhan Ayyıldız and I am fresh Software Quality Tester.
 Here some informations about me;
 
-👉I am currently working on patika bootcamp project
+👉I am currently working on mikrogrup company
+
+👉I finished SoftITo backend course with success
+
+👉I worked on patika bootcamp project
 
 👉I am looking to collaborate with other IT peoples
 
